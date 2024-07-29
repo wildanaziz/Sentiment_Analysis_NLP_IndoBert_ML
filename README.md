@@ -34,10 +34,11 @@ The dataset consists of reviews scraped from the Google Play Store. It includes 
 ## Results
 The results of the project are as follows:
 
-- **IndoBERT**: Achieved an accuracy of XX%
-- **Random Forest**: Achieved an accuracy of XX%
-- **SVM**: Achieved an accuracy of XX%
-- **Logistic Regression**: Achieved an accuracy of XX%
+- **IndoBERT**: Achieved an accuracy of >96%
+- **Random Forest**: Achieved an accuracy of >90%
+- **SVM**: Achieved an accuracy of >91%
+- **Logistic Regression**: Achieved an accuracy of >91%
+- **Voting Classifer**: Achieved an accuracy of >92%
 
 ## Installation
 To run this project locally, follow these steps:
